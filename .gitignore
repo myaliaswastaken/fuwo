@@ -1,0 +1,11 @@
+#Files to exclude from Git
+#
+#
+#File containing database connection details
+databaseConnectionProperties.conf
+.DS_Store
+.git
+.buildpath
+.project
+.settings
+ToDo.txt

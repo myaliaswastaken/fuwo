@@ -1,0 +1,4 @@
+README
+
+FuWo stores the connection information to the database in the following file in the root directory: databaseConnectionProperties.xxxx
+Enter your connection details there and rename the file from "databaseConnectionProperties.xxxx" to "databaseConnectionProperties.conf"
