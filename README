@@ -1,4 +1,14 @@
-README
+README ME FIRST
+
+Fuwo is a PHP application that needs a database to run on.
+Currently tested MariaDB and MySQL.
+
+INSTALL
+
+Fuwo needs a database connection.
+Use the script called fuwo_db.sql from the INSTALL directoy to create a fuwo database. Script is tested o  MariaDB.
+
+SETUP
 
 FuWo stores the connection information to the database in the following file in the root directory: databaseConnectionProperties.xxxx
 Enter your connection details there and rename the file from "databaseConnectionProperties.xxxx" to "databaseConnectionProperties.conf"
